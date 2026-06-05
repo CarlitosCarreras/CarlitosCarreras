@@ -4,7 +4,7 @@
 📧 [carlitoscdl@gmail.com](mailto:carlitoscdl@gmail.com)  
 🐙 [GitHub](https://github.com/carlitoscdl)
 
-### Data Scientist | Data Analyst | Computational Social Scientist
+### Data Scientist | Data Analyst | Computational Social Scientist | Economist
 
 I am a Data Scientist and Economist with a Master's degree in Social Data Science from the University of Granada (Spain). I specialize in transforming complex social, economic, and behavioral data into actionable insights through machine learning, statistical modeling, natural language processing (NLP), social network analysis, and data visualization.
 
